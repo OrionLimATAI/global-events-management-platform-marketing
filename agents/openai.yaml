@@ -1,0 +1,4 @@
+interface:
+  display_name: "DYNA Events Dashboard"
+  short_description: "Build Salesforce-style event budget dashboards"
+  default_prompt: "Use $dyna-events-dashboard to create a global events budget, ROI, and task-risk dashboard."
